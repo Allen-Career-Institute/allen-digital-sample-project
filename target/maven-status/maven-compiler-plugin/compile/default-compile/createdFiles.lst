@@ -1,0 +1,6 @@
+com/allen/digital/DropwizardSampleApplication.class
+com/allen/digital/resources/SampleResource.class
+com/allen/digital/api/SampleRequest.class
+com/allen/digital/DropwizardSampleConfiguration.class
+com/allen/digital/api/SampleResponse.class
+com/allen/digital/core/IllegalArgumentExceptionMapper.class
